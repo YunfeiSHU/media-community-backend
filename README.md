@@ -1,5 +1,14 @@
 # 音视频社区后端（Media Community Backend）
 
+> [!IMPORTANT]
+> 本仓库已归档，后端代码与提交历史已迁移至 monorepo：
+> **https://github.com/YunfeiSHU/media-community/tree/main/media-platform-backend**
+>
+> 最新代码、Issue 与 PR 请前往 [media-community](https://github.com/YunfeiSHU/media-community)。
+> 本仓库仅保留历史与旧链接，不再更新。
+
+---
+
 ![Java](https://img.shields.io/badge/Java-17-orange?logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.4-6DB33F?logo=springboot&logoColor=white)
 ![Spring Cloud](https://img.shields.io/badge/Spring%20Cloud-2024.0-6DB33F?logo=spring&logoColor=white)
